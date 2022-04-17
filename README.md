@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kingstonv1
+- 👀 I’m interested in the basics.
+- 🌱 I’m currently learning cee plus plus.
