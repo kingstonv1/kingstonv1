@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @kingstonv1
 - 👀 I’m interested in the basics (for now.)
-- 🌱 I’m currently learning cee plus plus.
+- 🌱 I’m currently about javaScript and data structures!
