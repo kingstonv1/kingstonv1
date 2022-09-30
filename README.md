@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @kingstonv1
+- 👋 Hi, I’m @kingstonv1, a high school sophomore at LSHS.
 - 👀 I’m interested in algorithms and data structures.
 - 🌱 I’m currently solving competitive programming problems !!
