@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @kingstonv1, a high school sophomore at LSHS.
-- 👀 I’m interested in web design & eye candy.
+- 👀 I’m interested in web design & game development!
 - 🌱 I’m currently centering divs :)
